@@ -66,5 +66,5 @@
 ## Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanHernandez0935&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanHernandez935&show_icons=true&count_private=true&hide_border=true" />
 </div>
